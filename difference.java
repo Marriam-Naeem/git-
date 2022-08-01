@@ -1,7 +1,8 @@
-public class difference {
+public class difference{
     public static void main(String[] args) {
-        int a = 10;
+        int a  = 10;
         int b = 5;
-        System.out.println(a-b);
+        int result = a-b;
+        System.out.println("The difference is " + result);
     }
 }
